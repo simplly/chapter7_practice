@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading-back {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+.h1 {
+  padding: 20px;
+}
+
+main {
+  margin: 50px;
+  width: 840px;
+}
+.course1 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+.course2 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+.course3 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+.course4 {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
